@@ -1,0 +1,26 @@
+{
+  "name": "alterx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "child_process": "^1.0.2",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/namanArora1022/alterx"
+  },
+  "type": "module",
+  "author": {
+    "name": "Naman Arora",
+    "email": "namanarora1022@gmail.com"
+  }
+}
